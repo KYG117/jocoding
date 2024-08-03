@@ -1,4 +1,4 @@
-# HCI 2024 Team project @SNU - AI Tutor service for English learning
+# Personal English Reading Material Generator - adjusting your interest and level
 
 ## Introduction
 조코딩 60만 기념 해커톤 제출을 위한 레포지토리입니다.
